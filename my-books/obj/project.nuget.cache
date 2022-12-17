@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "gYsRO1MKwTJ8uLNuij3IL6vGiuS1D4HlHdwd2Y8zKKsyEcA2iaRd5V6ct2MXvJ9a1oOUsA8RDjjr15sE8+DF7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ardit\\source\\repos\\my-books\\my-books\\my-books.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ardit\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Ardit\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Ardit\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Ardit\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Ardit\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Ardit\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
